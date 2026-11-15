@@ -1,3 +1,5 @@
 Aplankas: /Users/deividasm5/Desktop/Devops test/git-bandymas
 Eilutės su Terminalas:
 1:# Terminalas
+slaptas.txt teisės:
+-rw-------  1 deividasm5  staff  8 Nov 15 18:26 ../slaptas.txt
