@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
-echo "Aplankas: $(pwd)"
-echo "Eilutės su Terminalas:"
-grep -n "Terminalas" uzrasai.md
+  #!/usr/bin/env bash
+  echo "Aplankas: $(pwd)"
+  echo "Eilutės:"
+  grep -n -f ../slaptas.txt uzrasai.md
