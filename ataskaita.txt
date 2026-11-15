@@ -1,0 +1,3 @@
+Aplankas: /Users/deividasm5/Desktop/Devops test/git-bandymas
+Eilutės su Terminalas:
+1:# Terminalas
